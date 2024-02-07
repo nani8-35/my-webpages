@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card-1 {
+    padding-top: 25px;
+    font-family: "Roboto";
+}
+
+.card-1-head {
+    font-size: 18px;
+    font-weight: bold;
+    color: #323f4b;
+    font-family: "Roboto";
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+.card-1-para {
+    padding-left: 25px;
+    color: #9aa5b1;
+    font-size: 13.5px;
+}
+
+.card-2-img {
+    width: 30vw;
+    height: 40vh;
+    padding: 20px;
+}
+
+.card-3 {
+    margin-left: 15px;
+}
+
+.card-3-settings {
+    margin: 5px;
+    border-radius: 10px;
+    width: 30vw;
+    height: 40vh;
+}

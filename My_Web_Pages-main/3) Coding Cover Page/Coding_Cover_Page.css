@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.b-image {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png);
+    height: 100vh;
+    background-size: cover;
+    padding: 30px;
+    border-style: ridge;
+}
+
+.card {
+    background-color: #00000080;
+    width: 70vw;
+    border-width: 6px;
+    border-color: #48ee59;
+    font-family: Bree Serif;
+    color: white;
+    text-align: left;
+    padding: 35px;
+}

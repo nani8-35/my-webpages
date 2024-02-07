@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Podcast_Home_Page {
+    font-family: Roboto;
+    margin: 5px;
+}
+
+.Podcast_Home_Page_card1 {
+    text-align: center;
+    color: #ffffff;
+    height: 38vh;
+    width: 100vw;
+    background-size: cover;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+}
+
+.Podcast_Home_Page_card1_head {
+    left: 20px;
+    top: 20px;
+    position: absolute;
+    font-size: 30px;
+}
+
+.Podcast_Home_Page_card2 {
+    padding-top: 35px;
+    padding-left: 58px;
+    padding-right: 58px;
+}
+
+.Podcast_Home_Page_card2_image {
+    height: 98px;
+    width: 128px;
+}
+
+.Podcast_Home_Page_card2_head1 {
+    padding-top: 5px;
+    font-size: 15px;
+    color: #151765;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Podcast_Home_Page_card2_head2 {
+    font-size: 13px;
+    padding-bottom: 25px;
+    font-weight: bold;
+    color: #5a7184;
+    text-align: center;
+}
+
+.Podcast_Puri_Jagannadh_Page {
+    font-family: Roboto;
+    color: #ffffff;
+}
+
+.Podcast_Puri_Jagannadh_Page_button {
+    text-align: right;
+}
+
+.Podcast_Puri_Jagannadh_Page_button_setting {
+    background-color: #151765;
+    border-width: 0px;
+    border-radius: 13px;
+    color: #ffffff;
+    font-size: 12px;
+    height: 25px;
+    width: 80px;
+}
+
+.Podcast_Puri_Jagannadh_Page_card {
+    background-color: #151765;
+    padding: 20px;
+}
+
+.Podcast_Puri_Jagannadh_Page_card1 {
+    padding: 20px;
+}
+
+.Podcast_Puri_Jagannadh_Page_card_head {
+    padding-left: 10px;
+}
+
+.Podcast_Puri_Jagannadh_Page_head1 {
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+
+.Podcast_Puri_Jagannadh_Page_head2 {
+    font-size: 19.3px;
+    font-weight: bold;
+}
+
+.Podcast_Puri_Jagannadh_Page_head3 {
+    font-size: 12px;
+}
+
+.Podcast_Puri_Jagannadh_Page_head4 {
+    font-size: 17px;
+    color: #151765;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.Podcast_Puri_Jagannadh_Page_head5 {
+    font-size: 12px;
+    color: #5a7184;
+}
+
+.Podcast_Puri_Jagannadh_Page_head6 {
+    font-size: 12px;
+    color: #151765;
+}
+
+.Podcast_Puri_Jagannadh_Page_image {
+    height: 98px;
+    width: 128px;
+}
+
+.demo {
+    background-color: black;
+    font-size: 30px;
+}

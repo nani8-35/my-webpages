@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    font-family: "Roboto";
+    border-width: 10px;
+    padding: 15px;
+}
+
+.main-card-1 {
+    margin-bottom: 15px;
+}
+
+.main-card-1-head {
+    font-size: 18px;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.main-card-1-button {
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 12px;
+    height: 30px;
+    width: 90px;
+}
+
+.main-card-2 {
+    background-color: #0967d219;
+    border-radius: 8px;
+    padding: 10px;
+    height: 105px;
+    color: #323f4b;
+}
+
+.main-card-2-image {
+    padding: 10px;
+    width: 100px;
+    height: 70px;
+}
+
+.main-card-2-head {
+    font-size: 16px;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.main-card-2-paragraph {
+    font-size: 13px;
+    color: #323f4b;
+}
+
+.main-card-3-head {
+    font-size: 16px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+.main-card-3-img-card1 {
+    background-color: #3ebd93;
+    border-radius: 10px;
+    width: 80px;
+    height: 90px;
+    padding: 10px;
+    margin-left: 18px;
+
+}
+
+.main-card-3-img-card2 {
+    background-color: #e668a7;
+    border-radius: 10px;
+    width: 80px;
+    height: 90px;
+    padding: 10px;
+    margin-left: 18px;
+
+}
+
+.main-card-3-img-card3 {
+    background-color: #a368fc;
+    border-radius: 10px;
+    width: 80px;
+    height: 90px;
+    padding: 10px;
+    margin-left: 18px;
+}
+
+.main-card-3-paragraph {
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.main-card-4-head {
+    color: #323f4b;
+    font-size: 16px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+.card-4 {
+    background-color: #e12d3919;
+    border-radius: 10px;
+    padding-top: 12px;
+}
+
+.card-4-head {
+    color: #323f4b;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.card-4-para {
+    color: #707070;
+    padding-left: 10px;
+    font-size: 12px;
+}
+
+.last-img {
+    width: 100px;
+    padding-top: 5px;
+    padding-left: 10px;
+    height: 60px;
+}
+
+.butt {
+    margin-left: 10px;
+    font-size: 12px;
+}

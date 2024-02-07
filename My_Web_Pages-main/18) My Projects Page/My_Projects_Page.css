@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-img {
+    padding: 5px;
+    height: 250px;
+    width: 300px;
+}
+
+.main-head {
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    color: #183b56;
+    font-family: Bree Serif;
+}
+
+.main-para {
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    color: #616e7c;
+    font-family: Bree Serif;
+    font-size: 12px;
+}
+
+.pad {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.main-img1 {
+    padding: 5px;
+    height: 100px;
+    width: 150px;
+}
+
+.background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.text-card {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+}
+
+.text-card-heading {
+    font-family: "Bree Serif";
+    color: #5752ab;
+    font-size: 23px;
+}
+
+.text-card-paragraph {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 15px;
+}
+
+.button1 {
+    height: 40px;
+    width: 130px;
+    border-color: #d7dfe9;
+    border-width: 1px;
+    background-color: #ffffff;
+    color: #171f46;
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: "Roboto";
+    margin-right: 8px;
+}
+
+.button2 {
+    height: 40px;
+    width: 130px;
+    border-color: #d7dfe9;
+    border-width: 1px;
+    background-color: #5752ab;
+    color: #ffffff;
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: "Roboto";
+    margin-left: 8px;
+}
+
+
+
+
+.top-diwali-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 35vh;
+    background-size: cover;
+}
+
+.top-diwali-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 32px;
+    width: 200px;
+    padding: 15px;
+}
+
+.bottom-container {
+    background-color: #e6f6ff;
+    text-align: center;
+    padding: 10px;
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-img {
+    height: 64px;
+    width: 64px;
+    margin-left: 18px;
+}
+
+.card-heading {
+    font-size: 16px;
+    font-family: Roboto;
+    color: #616e7c;
+    padding: 5px;
+    font-weight: normal;
+}
+
+.card-price {
+    font-family: Roboto;
+    font-weight: bold;
+
+}
+
+
+
+
+.Food-container {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    height: 100vh;
+    background-size: cover;
+    color: #323f4b;
+    padding: 0px;
+}
+
+.h {
+    font-family: Bree Serif;
+    font-size: 37px;
+}
+
+.p {
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.Food-card {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #f6c56e;
+    padding: 22px;
+    height: 35vh;
+}
+
+.button {
+    background-color: #ffffff;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: bold;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-width: 0px;
+    width: 110px;
+    height: 35px;
+}
+
+
+.background-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    font-family: "Roboto";
+    height: 100vh;
+}
+
+.card-container2 {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+}
+
+.card-main-heading {
+    color: #7b8794;
+    font-size: 14px;
+}
+
+.card-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-paragraph {
+    color: #7b8794;
+    font-size: 13px;
+}
+
+.card-button {
+    color: #ffffff;
+    font-size: 14px;
+    background-color: #323f4b;
+    border: 0px;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+}

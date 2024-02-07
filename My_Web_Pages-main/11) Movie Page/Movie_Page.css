@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    padding: 20px;
+    font-family: Roboto;
+    color: #fcfcfa;
+}
+
+.card-main {
+    margin-top: 10px;
+}
+
+.card-heading {
+    font-size: 26px;
+    font-weight: bold;
+    padding-right: 10.5px;
+    padding-bottom: 10px;
+    ;
+}
+
+.card-button {
+    font-size: 12px;
+    color: #ff8348;
+    width: 100px;
+    height: 35px;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.card-paragraph {
+    font-size: 12px;
+}
+
+.card2-heading {
+    font-size: 18px;
+}
+
+.card2-images {
+    padding-right: 10px;
+    width: 95px;
+}

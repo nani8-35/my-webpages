@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.container {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    height: 100vh;
+    background-size: cover;
+    color: #323f4b;
+    padding: 0px;
+}
+
+.h {
+    font-family: Bree Serif;
+    font-size: 37px;
+}
+
+.p {
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.card {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #f6c56e;
+    padding: 22px;
+    height: 35vh;
+}
+
+.button {
+    background-color: #ffffff;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: bold;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-width: 0px;
+    width: 110px;
+    height: 35px;
+}

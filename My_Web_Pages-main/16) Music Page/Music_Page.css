@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Music_Home_Page_container {
+    background-color: #03174c;
+    font-family: "Bree Serif";
+    text-align: center;
+    color: #ffffff;
+}
+
+.Music_Home_Page_top_image {
+    padding-top: 100px;
+    background-size: cover;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+}
+
+.Music_Home_Page_top_head {
+    font-size: 25px;
+}
+
+.Music_Home_Page_top_para {
+    font-size: 15px;
+}
+
+.Music_Home_Page_bottom_section {
+    padding: 40px;
+}
+
+.Music_Home_Page_bottom_image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.Music_Home_Page_bottom_head {
+    font-size: 30px;
+    padding: 90px;
+    color: #ffffff;
+}
+
+.Music_Home_Page_bottom_para {
+    font-size: 18px;
+}
+
+.Music_Home_Page_bottom_button {
+    border-radius: 20px;
+    color: #ffffff;
+    height: 35px;
+    width: 120px;
+    background-color: #8e97fd;
+    border-width: 0px;
+}
+
+.Music_Details_Page_container {
+    background-color: #03174c;
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.Music_Details_Page_top_section {
+    height: 50vh;
+    width: 100vw;
+}
+
+.Music_Details_Page_middle_section {
+    padding-top: 12px;
+    padding-left: 20px;
+}
+
+.Music_Details_Page_Middle_head {
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.Music_Details_Page_Middle_para {
+    font-size: 13px;
+    color: #98a1bd;
+}
+
+.Music_Details_Page_Bottom_container {
+    padding-left: 20px;
+}
+
+.Music_Details_Page_Bottom_head1 {
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.Music_Details_Page_Bottom_image {
+    height: 85px;
+    width: 125px;
+    margin-right: 15px;
+}
+
+.Music_Details_Page_Bottom_head1 {
+    font-size: 15px;
+}
